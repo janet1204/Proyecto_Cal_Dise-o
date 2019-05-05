@@ -1,0 +1,44 @@
+.inicio{
+  background-image: url(../ImagP1/44E.png);
+}
+.bkd{
+  background-color: #AAC7CD;
+}
+.marco{
+  background-color: white;
+  display: block;
+  text-align: center;
+  width: 30%;
+}
+.hed2{
+  background-color: white;
+}
+.carrito{
+  width: 120px;
+  height: 80px;
+  display: block;
+  float: right;
+}
+.ibut{
+  width: 100px;
+}
+}
+.ibut2{
+  width: 150px;
+}
+body{
+  font-family: 'Averia Libre', cursive;
+}
+h1{
+  font-size: 70px;
+}
+h2{
+  color:#336E7B;
+  font-size: 35px;
+}
+h3{
+  text-align: right;
+}
+h5{
+  background-color: #C4C4C4;
+}
